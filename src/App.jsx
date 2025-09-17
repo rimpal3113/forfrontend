@@ -13,7 +13,7 @@ import Search from "./pages/admin/Search"
 import Supplements from "./pages/admin/Supplements"
 
 import Dashboard from "./pages/members/Dashboard"
-import AdminDashboard from "./pages/admin/DashBoard"
+import AdminDashboard from "./pages/admin/Dashboard"
 import UserDashboard from "./pages/users/Dashboard"
 import SearchRecords from "./pages/users/SearchRecords"
 
